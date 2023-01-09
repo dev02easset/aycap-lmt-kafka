@@ -1,0 +1,9 @@
+server:
+  port: 9080
+
+spring:
+  kafka:
+    bootstrap-servers:
+      - 192.168.0.114:9092
+    consumer:
+      group-id: aycap-lmt-01

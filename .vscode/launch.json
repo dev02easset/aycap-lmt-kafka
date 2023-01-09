@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-LmtClientApplication<lmt-client>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.aycap.lmt.lmtclient.LmtClientApplication",
+      "projectName": "lmt-client",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
